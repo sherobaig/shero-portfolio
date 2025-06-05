@@ -20,7 +20,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [Microsoft Python Development Professional Certificate]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://www.coursera.org/professional-certificates/microsoft-python-developer))
+- [Microsoft Python Development Professional Certificate]([https://www.coursera.org/professional-certificates/microsoft-python-developer])
 
 
 <h2> 🤳 Connect with me:</h2>
