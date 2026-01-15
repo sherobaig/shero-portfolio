@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
+- <b>Chat Room</b>
   
 
 <h2>📄Degrees</h2>
