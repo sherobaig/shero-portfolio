@@ -39,7 +39,39 @@ Demonstrates collaborative and scalable application design in a classroom team p
 
 
 - <b><a href="https://github.com/aaatipamula/group27_MineSweeper">MineSweeper</a>
-  - <a>
+  - <a> 🚀 Minesweeper — Full-Stack Team Project
+
+EECS 581 (Software Engineering II) Spring 2025
+
+Minesweeper is a web-based implementation of the classic logic puzzle game where players uncover cells on a grid while avoiding hidden mines. Developed collaboratively by Team 28 for EECS 581: Software Engineering II, this project demonstrates modern web development practices paired with solid software engineering principles — from system design and modular architecture to responsive client interaction and team-driven workflow.
+
+This build delivers a playable, polished version of Minesweeper that runs in the browser with an intuitive UI and dynamic game logic. It bridges frontend experience with backend logic and shows practical application of TypeScript, React/Next.js, and stateful game mechanics.
+
+🎯 Key Features
+
+Interactive Minesweeper Gameplay — Clickable grid, mine detection, and real-time computation of adjacent counts for strategic play.
+
+Responsive Web Interface — Built for smooth, intuitive user interaction across devices.
+
+Team-Oriented Engineering — Project structure + documentation support maintainability and collaborative development.
+
+🧰 Tech Stack
+
+Frontend: TypeScript, React / Next.js
+
+Styling: CSS modules / Tailwind (based on project setup)
+
+Tooling: Node.js, npm for development scripts and dependency management
+
+Version Control: Git & GitHub workflow for team coordination and continuous integration
+
+📌 Highlights
+
+Showcases software modularity, separation of UI and game logic, and real-time rendering of gameplay state.
+
+Demonstrates full-stack web development skills applicable to logic-driven interactive applications.
+
+A strong example of cohesive team engineering in an academic setting, mirroring professional collaboration patterns.</a>
 
 <h2>📄Degrees</h2>
 Bachelors in Computer Science at KU
