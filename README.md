@@ -1,168 +1,159 @@
 # 👋 Hi, I’m Shero Baig
 
 **Programmer | Software Engineer**  
-📍 Computer Science @ University of Kansas  
+📍 Computer Science — University of Kansas  
 
-🔗 GitHub: https://github.com/sherobaig  
-🔗 LinkedIn: https://www.linkedin.com/in/shero-baig-46bb96225/
+🔗 **GitHub:** https://github.com/sherobaig  
+🔗 **LinkedIn:** https://www.linkedin.com/in/shero-baig-46bb96225/
 
 ---
 
 ## 🧑‍💻 EECS 168 — Programming I (Python Foundations)
 
 📘 *EECS 168: Programming I*  
-🔗 https://github.com/sherobaig/EECS168Projects
+🔗 https://github.com/sherobaig/EECS168Projects  
 
 This repository contains all individual lab assignments completed for EECS 168, an introductory programming course focused on **Python fundamentals, problem-solving, and computational thinking**. Each lab builds progressively on prior concepts, moving from basic syntax to structured, multi-component programs.
 
 ---
 
-### 🧪 Lab 2 — Variables & Basic Input/Output  
-🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab2
+### 🧪 Lab 02 — Variables & Basic Input/Output  
+🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab2  
 
-Introduces fundamental Python syntax, including variable assignment, arithmetic operations, and console input/output. Programs focus on interacting with the user and producing correctly formatted output.
+Introduces core Python syntax including variable assignment, arithmetic operations, and console input/output.
 
-**Concepts**
+**Concepts Covered**
 - Variables and data types  
 - User input with `input()`  
 - Output formatting and expressions  
 
 ---
 
-### 🔀 Lab 3 — Conditional Logic  
-🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab3
+### 🔀 Lab 03 — Conditional Logic  
+🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab3  
 
-Focuses on decision-making using conditional statements. Programs respond dynamically to user input and computed conditions.
+Focuses on decision-making using conditional statements that respond dynamically to user input.
 
-**Concepts**
+**Concepts Covered**
 - `if`, `elif`, `else` statements  
 - Boolean expressions and comparisons  
 - Input validation  
 
 ---
 
-### 🔁 Lab 4 — Loops & Iteration  
-🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab4
+### 🔁 Lab 04 — Loops & Iteration  
+🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab4  
 
-Introduces repetition through loops. Students implement programs that repeat tasks efficiently and handle repeated input patterns.
+Introduces repetition using loops to efficiently perform repeated tasks.
 
-**Concepts**
+**Concepts Covered**
 - `for` and `while` loops  
 - Loop control and termination conditions  
 - Nested loops  
 
 ---
 
-### 🗃 Lab 5 — Lists & Data Collections  
-🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab5
+### 🗃 Lab 05 — Lists & Data Collections  
+🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab5  
 
-Explores Python lists as a way to store and manipulate collections of data. Programs iterate over lists and perform calculations on stored values.
+Explores Python lists for storing and manipulating collections of data.
 
-**Concepts**
+**Concepts Covered**
 - Lists and indexing  
 - Iteration over collections  
 - Basic list operations  
 
 ---
 
-### 🧠 Lab 6 — Functions & Modular Programming  
-🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab6
+### 🧠 Lab 06 — Functions & Modular Programming  
+🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab6  
 
-Introduces writing reusable functions to improve program organization and readability. Emphasizes breaking large problems into smaller components.
+Introduces reusable functions to improve program organization and readability.
 
-**Concepts**
-- Defining and calling functions  
+**Concepts Covered**
+- Function definitions and calls  
 - Parameters and return values  
-- Code modularity  
+- Modular program design  
 
 ---
 
-### 📂 Lab 7 — File Input & Output  
-🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab7
+### 📂 Lab 07 — File Input & Output  
+🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab7  
 
-Focuses on reading from and writing to files. Programs process stored data and produce output files based on computation results.
+Focuses on reading from and writing to files for persistent data storage.
 
-**Concepts**
+**Concepts Covered**
 - File reading and writing  
 - Processing file-based data  
-- Handling structured input  
+- Structured input handling  
 
 ---
 
-### 🧩 Lab 8 — Lists of Lists & Structured Data  
-🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab8
+### 🧩 Lab 08 — Lists of Lists & Structured Data  
+🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab8  
 
-Introduces working with multi-dimensional data using nested lists. Programs model grid-like or table-based data structures.
+Introduces multi-dimensional data using nested lists.
 
-**Concepts**
+**Concepts Covered**
 - Lists of lists  
 - Nested iteration  
 - Structured data processing  
 
 ---
 
-### 🔍 Lab 9 — Debugging & Program Testing  
-🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab9
+### 🔍 Lab 09 — Debugging & Program Testing  
+🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab9  
 
-Emphasizes identifying and fixing logical and runtime errors. Students test programs using multiple inputs and edge cases.
+Emphasizes debugging strategies and testing programs against edge cases.
 
-**Concepts**
-- Debugging strategies  
+**Concepts Covered**
+- Debugging techniques  
 - Error tracing  
 - Test case design  
 
 ---
 
 ### 🏁 Lab 10 — Final Integrated Python Lab  
-🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab10
+🔗 https://github.com/sherobaig/EECS168Projects/tree/main/Lab10  
 
-A cumulative lab combining multiple concepts from the course into a single structured program. Demonstrates overall mastery of Python fundamentals.
+A cumulative lab integrating multiple course concepts into a single structured program.
 
-**Concepts**
+**Concepts Covered**
 - Multi-function program design  
 - Integration of conditionals, loops, lists, and files  
-- Clean, readable, and maintainable code  
+- Clean, maintainable code  
 
 ---
 
 > Together, these labs demonstrate a strong foundation in Python programming and problem-solving, forming the basis for advanced coursework in data structures, databases, and software engineering.
 
-# EECS 268 — Programming II (Python Projects)
-
-This repository contains lab assignments completed for **EECS 268: Programming II**, a mid-level computer science course at the University of Kansas focused on **advanced Python programming, data structures, algorithms, and system simulation**.
-
-The projects emphasize modeling real-world systems, implementing abstract data types, applying recursion, and designing larger, multi-module programs.
-
 ---
 
-## 🧠 Course Overview
+## 🧑‍💻 EECS 268 — Programming II (Python Projects)
 
-EECS 268 builds on introductory programming by introducing:
-- Abstract data structures
-- Recursive problem solving
-- Event-driven and process simulations
-- Algorithmic reasoning and system modeling
+📘 *EECS 268: Programming II*  
+🔗 https://github.com/sherobaig/EECS268Projects  
+
+This repository contains lab assignments completed for EECS 268, a mid-level computer science course focused on **advanced Python programming, data structures, algorithms, and system simulation**.
 
 ---
-
-## 🧪 Lab Descriptions
 
 ### 🎲 Lab 01 — Board Games  
-🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab01%20Board%20Games
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab01%20Board%20Games  
 
-Simulates classic board games by modeling players, turns, and game rules. This lab focuses on organizing program logic and managing state throughout gameplay.
+Simulates board games by modeling players, turns, and rules.
 
 **Skills Highlighted**
-- Program structure and control flow  
+- Program structure  
 - State management  
-- Logical modeling of systems  
+- Logical system modeling  
 
 ---
 
 ### 🖥️ Lab 02 — Computer Process Simulation  
-🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab02%20Computer%20Process%20Simulation
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab02%20Computer%20Process%20Simulation  
 
-Implements a simulation of computer processes executing over time. Students model processes, queues, and transitions to analyze execution behavior.
+Models computer processes executing over time.
 
 **Skills Highlighted**
 - Simulation modeling  
@@ -172,9 +163,9 @@ Implements a simulation of computer processes executing over time. Students mode
 ---
 
 ### 🧠 Lab 03 — CPU Scheduler  
-🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab03%20CPU%20Scheduler
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab03%20CPU%20Scheduler  
 
-Builds a CPU scheduling simulation where processes are managed according to scheduling strategies. Demonstrates how scheduling policies affect performance.
+Implements CPU scheduling strategies and analyzes performance impacts.
 
 **Skills Highlighted**
 - Scheduling algorithms  
@@ -184,57 +175,57 @@ Builds a CPU scheduling simulation where processes are managed according to sche
 ---
 
 ### 🌐 Lab 04 — Web Browser History  
-🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab04%20Web%20Browser%20History
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab04%20Web%20Browser%20History  
 
-Models browser navigation using data structures to manage back and forward history efficiently.
+Models browser navigation using stack-based data structures.
 
 **Skills Highlighted**
-- Stack-based data structures  
-- Abstract data type usage  
+- Stack implementation  
+- Abstract data types  
 - Navigation state management  
 
 ---
 
 ### 🔁 Lab 05 — Recursion  
-🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab05%20Recursion
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab05%20Recursion  
 
-Explores recursive algorithms by solving problems through self-referential function design.
+Solves problems using recursive algorithms.
 
 **Skills Highlighted**
 - Recursive thinking  
-- Base case and termination logic  
+- Base cases and termination  
 - Divide-and-conquer strategies  
 
 ---
 
 ### 🌊 Lab 06 — Flood!  
-🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab06%20Flood!
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab06%20Flood!  
 
-Implements a grid-based flood simulation using recursion and 2D data traversal.
+Implements a grid-based flood simulation using recursion.
 
 **Skills Highlighted**
-- Nested lists (2D arrays)  
-- Recursive grid traversal  
+- 2D data traversal  
+- Recursive algorithms  
 - Simulation logic  
 
 ---
 
 ### 🔍 Lab 08 — Pokedex (Binary Search Tree)  
-🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab08%20Pokedex-BST
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab08%20Pokedex-BST  
 
-Creates a Pokémon index using a **Binary Search Tree**, supporting efficient insertion, searching, and traversal.
+Implements a Binary Search Tree for efficient searching and insertion.
 
 **Skills Highlighted**
-- Binary Search Trees (BSTs)  
+- Binary Search Trees  
 - Tree traversal algorithms  
 - Efficient data organization  
 
 ---
 
 ### 🏥 Lab 09 — Hospital Simulator  
-🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab09%20Hospital%20Simulator
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab09%20Hospital%20Simulator  
 
-Simulates a hospital system with patient arrivals, service queues, and event scheduling.
+Simulates hospital operations using priority queues and event scheduling.
 
 **Skills Highlighted**
 - Priority queues  
@@ -244,23 +235,14 @@ Simulates a hospital system with patient arrivals, service queues, and event sch
 ---
 
 ## 🚀 Skills Demonstrated
-
 - Advanced Python programming  
-- Abstract data structures  
-- Recursive algorithms  
+- Data structures and recursion  
 - Simulation and scheduling systems  
-- Modular program design  
-
----
-
-## 📌 Why This Repository Matters
-
-This repository demonstrates progression from intermediate Python skills to **algorithmic reasoning and system-level problem solving**, forming a strong foundation for advanced coursework and software engineering projects.
+- Modular, maintainable program design  
 
 ---
 
 📎 **Author:** Shero Baig  
-📘 **Course:** EECS 268 — Programming II  
 🏫 **University:** University of Kansas
 
 
