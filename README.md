@@ -8,8 +8,6 @@
 
 ---
 
-## 👨‍💻 Software Development Projects
-
 ## 🧑‍💻 EECS 168 — Programming I (Python Foundations)
 
 📘 *EECS 168: Programming I*  
