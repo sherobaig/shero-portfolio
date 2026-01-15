@@ -1,93 +1,81 @@
-<h1>Hi, I'm Shero! <br/><a href="https://github.com/sherobaig">Programmer</a>, <a href="https://www.linkedin.com/in/shero-baig-46bb96225/">Software Engineer</a>
+👋 Hi, I’m Shero Baig
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Programmer | Software Engineer
+📍 Computer Science @ University of Kansas
 
-- <b><a href="https://github.com/nfahmad/eecs581_project3">Chat Room</b></a>
-  - <a>🚀 ¥apper — Multi-Room Chat Application
+🔗 GitHub
 
-EECS 581 (Software Engineering II) Project
+🔗 LinkedIn
 
-¥apper is a full-stack, real-time multi-room chat application built as part of a university software engineering course project. It enables users to create profiles, join chat rooms, and communicate live with others in dedicated spaces — showcasing both frontend UX design and backend API development.
+👨‍💻 Software Development Projects
+🚀 ¥apper — Multi-Room Chat Application
 
-This project demonstrates core software engineering skills including requirements understanding, system design, iterative development, and integration testing in a team environment, following structured SE principles from EECS 581: Software Engineering II.
+📘 EECS 581: Software Engineering II
+🔗 View Repository
 
-🛠 Key Features
+A full-stack, real-time chat application supporting user profiles and multi-room messaging. Built as a team project following structured software engineering principles, focusing on system design, iterative development, and backend-frontend integration.
 
-User Authentication & Profiles – Users can register, log in, and manage their profiles.
+Key Features
 
-Multi-Room Chatting – Real-time messaging across rooms with room-creation support.
+User authentication and profile management
 
-Responsive UI – Built with modern frontend frameworks for a smooth user experience.
+Real-time, multi-room chat using WebSockets
 
-💻 Tech Stack
+Responsive and modern UI
 
-Frontend: React + TypeScript
+Tech Stack
+
+Frontend: React, TypeScript
 
 Backend: FastAPI (Python)
 
-Real-Time Communication: WebSockets / socket support
+Real-Time: WebSockets
 
-Deployment & Development Tools: Node.js, Python virtual environment, npm uv tooling
+Tooling: Node.js, npm, Python virtual environments
 
-📌 Highlights
+Highlights
 
-Integrated full-stack development workflow connecting a REST API backend with a reactive frontend.
+End-to-end full-stack development
 
-Built to adhere to modern software engineering practices including modular architecture, environment isolation, and documented setup.
+Modular, scalable architecture
 
-Demonstrates collaborative and scalable application design in a classroom team project.</a>
+Team-based engineering workflow with documented setup
 
+💣 Minesweeper — Web-Based Game Application
 
-- <b><a href="https://github.com/aaatipamula/group27_MineSweeper">MineSweeper</a>
-  - <a> 🚀 Minesweeper — Full-Stack Team Project
+📘 EECS 581: Software Engineering II (Spring 2025)
+🔗 View Repository
 
-EECS 581 (Software Engineering II) Spring 2025
+A browser-based implementation of the classic Minesweeper game, developed collaboratively as part of a full-stack software engineering project. The application combines interactive gameplay with clean UI design and structured game logic.
 
-Minesweeper is a web-based implementation of the classic logic puzzle game where players uncover cells on a grid while avoiding hidden mines. Developed collaboratively by Team 28 for EECS 581: Software Engineering II, this project demonstrates modern web development practices paired with solid software engineering principles — from system design and modular architecture to responsive client interaction and team-driven workflow.
+Key Features
 
-This build delivers a playable, polished version of Minesweeper that runs in the browser with an intuitive UI and dynamic game logic. It bridges frontend experience with backend logic and shows practical application of TypeScript, React/Next.js, and stateful game mechanics.
+Interactive grid with real-time mine detection
 
-🎯 Key Features
+Dynamic calculation of adjacent mine counts
 
-Interactive Minesweeper Gameplay — Clickable grid, mine detection, and real-time computation of adjacent counts for strategic play.
+Responsive, user-friendly interface
 
-Responsive Web Interface — Built for smooth, intuitive user interaction across devices.
-
-Team-Oriented Engineering — Project structure + documentation support maintainability and collaborative development.
-
-🧰 Tech Stack
+Tech Stack
 
 Frontend: TypeScript, React / Next.js
 
-Styling: CSS modules / Tailwind (based on project setup)
+Styling: CSS Modules / Tailwind
 
-Tooling: Node.js, npm for development scripts and dependency management
+Tooling: Node.js, npm
 
-Version Control: Git & GitHub workflow for team coordination and continuous integration
+Version Control: Git & GitHub
 
-📌 Highlights
+Highlights
 
-Showcases software modularity, separation of UI and game logic, and real-time rendering of gameplay state.
+Clear separation of UI and game logic
 
-Demonstrates full-stack web development skills applicable to logic-driven interactive applications.
+Strong example of collaborative team development
 
-A strong example of cohesive team engineering in an academic setting, mirroring professional collaboration patterns.</a>
+Applies software modularity to a logic-driven web application
 
-<h2>📄Degrees</h2>
-Bachelors in Computer Science at KU
+🎓 Education
 
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bachelor of Science in Computer Science
+📍 University of Kansas
+🎓 Expected Graduation: May 2026
