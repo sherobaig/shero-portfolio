@@ -36,7 +36,9 @@ Integrated full-stack development workflow connecting a REST API backend with a 
 Built to adhere to modern software engineering practices including modular architecture, environment isolation, and documented setup.
 
 Demonstrates collaborative and scalable application design in a classroom team project.</a>
-  
+
+
+- <b><a href="https://github.com/aaatipamula/group27_MineSweeper">MineSweeper</a>
 
 <h2>📄Degrees</h2>
 Bachelors in Computer Science at KU
