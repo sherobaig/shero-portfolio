@@ -39,6 +39,7 @@ Demonstrates collaborative and scalable application design in a classroom team p
 
 
 - <b><a href="https://github.com/aaatipamula/group27_MineSweeper">MineSweeper</a>
+  - <a>
 
 <h2>📄Degrees</h2>
 Bachelors in Computer Science at KU
