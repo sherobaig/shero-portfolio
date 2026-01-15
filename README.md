@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b><a href="https://github.com/nfahmad/eecs581_project3">Chat Room</b></a>
-  -<a>🚀 ¥apper — Multi-Room Chat Application
+  - <a>🚀 ¥apper — Multi-Room Chat Application
 
 EECS 581 (Software Engineering II) Project
 
