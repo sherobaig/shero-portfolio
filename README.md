@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shero! <br/><a href="https://github.com/sherobaig">Programmer</a>, <a href="[https://www.linkedin.com/in/shero-baig/](https://www.linkedin.com/in/shero-baig-46bb96225/)">Software Engineer</a>
+<h1>Hi, I'm Shero! <br/><a href="https://github.com/sherobaig">Programmer</a>, <a href="https://www.linkedin.com/in/shero-baig-46bb96225/">Software Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
