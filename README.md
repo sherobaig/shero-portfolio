@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Chat Room</b>
+- <b><a href="https://github.com/nfahmad/eecs581_project3">Chat Room</b></a>
   
 
 <h2>📄Degrees</h2>
