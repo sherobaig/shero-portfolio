@@ -5,9 +5,9 @@
 - <b>Python</b>
   
 
-<h2>📄 Certifications</h2>
+<h2>📄Degrees</h2>
+Bachelors in Computer Science at KU
 
-- [Microsoft Python Development Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-python-developer)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
