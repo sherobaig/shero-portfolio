@@ -127,6 +127,143 @@ A cumulative lab combining multiple concepts from the course into a single struc
 
 > Together, these labs demonstrate a strong foundation in Python programming and problem-solving, forming the basis for advanced coursework in data structures, databases, and software engineering.
 
+# EECS 268 — Programming II (Python Projects)
+
+This repository contains lab assignments completed for **EECS 268: Programming II**, a mid-level computer science course at the University of Kansas focused on **advanced Python programming, data structures, algorithms, and system simulation**.
+
+The projects emphasize modeling real-world systems, implementing abstract data types, applying recursion, and designing larger, multi-module programs.
+
+---
+
+## 🧠 Course Overview
+
+EECS 268 builds on introductory programming by introducing:
+- Abstract data structures
+- Recursive problem solving
+- Event-driven and process simulations
+- Algorithmic reasoning and system modeling
+
+---
+
+## 🧪 Lab Descriptions
+
+### 🎲 Lab 01 — Board Games  
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab01%20Board%20Games
+
+Simulates classic board games by modeling players, turns, and game rules. This lab focuses on organizing program logic and managing state throughout gameplay.
+
+**Skills Highlighted**
+- Program structure and control flow  
+- State management  
+- Logical modeling of systems  
+
+---
+
+### 🖥️ Lab 02 — Computer Process Simulation  
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab02%20Computer%20Process%20Simulation
+
+Implements a simulation of computer processes executing over time. Students model processes, queues, and transitions to analyze execution behavior.
+
+**Skills Highlighted**
+- Simulation modeling  
+- Queue-based data handling  
+- System state tracking  
+
+---
+
+### 🧠 Lab 03 — CPU Scheduler  
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab03%20CPU%20Scheduler
+
+Builds a CPU scheduling simulation where processes are managed according to scheduling strategies. Demonstrates how scheduling policies affect performance.
+
+**Skills Highlighted**
+- Scheduling algorithms  
+- Event-driven logic  
+- Performance reasoning  
+
+---
+
+### 🌐 Lab 04 — Web Browser History  
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab04%20Web%20Browser%20History
+
+Models browser navigation using data structures to manage back and forward history efficiently.
+
+**Skills Highlighted**
+- Stack-based data structures  
+- Abstract data type usage  
+- Navigation state management  
+
+---
+
+### 🔁 Lab 05 — Recursion  
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab05%20Recursion
+
+Explores recursive algorithms by solving problems through self-referential function design.
+
+**Skills Highlighted**
+- Recursive thinking  
+- Base case and termination logic  
+- Divide-and-conquer strategies  
+
+---
+
+### 🌊 Lab 06 — Flood!  
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab06%20Flood!
+
+Implements a grid-based flood simulation using recursion and 2D data traversal.
+
+**Skills Highlighted**
+- Nested lists (2D arrays)  
+- Recursive grid traversal  
+- Simulation logic  
+
+---
+
+### 🔍 Lab 08 — Pokedex (Binary Search Tree)  
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab08%20Pokedex-BST
+
+Creates a Pokémon index using a **Binary Search Tree**, supporting efficient insertion, searching, and traversal.
+
+**Skills Highlighted**
+- Binary Search Trees (BSTs)  
+- Tree traversal algorithms  
+- Efficient data organization  
+
+---
+
+### 🏥 Lab 09 — Hospital Simulator  
+🔗 https://github.com/sherobaig/EECS268Projects/tree/main/Lab09%20Hospital%20Simulator
+
+Simulates a hospital system with patient arrivals, service queues, and event scheduling.
+
+**Skills Highlighted**
+- Priority queues  
+- Event-driven simulation  
+- Real-world system modeling  
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Advanced Python programming  
+- Abstract data structures  
+- Recursive algorithms  
+- Simulation and scheduling systems  
+- Modular program design  
+
+---
+
+## 📌 Why This Repository Matters
+
+This repository demonstrates progression from intermediate Python skills to **algorithmic reasoning and system-level problem solving**, forming a strong foundation for advanced coursework and software engineering projects.
+
+---
+
+📎 **Author:** Shero Baig  
+📘 **Course:** EECS 268 — Programming II  
+🏫 **University:** University of Kansas
+
+
 
 ### 🚀 ¥apper — Multi-Room Chat Application  
 📘 *EECS 581: Software Engineering II*  
